@@ -1,1 +1,3 @@
-Shells basics
+#!/bin/bash
+this Read me
+
