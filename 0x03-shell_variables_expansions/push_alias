@@ -1,0 +1,2 @@
+#!/bin/bash
+alias acp = 'git add .':'git commit -m "alias committed"':'git push'
